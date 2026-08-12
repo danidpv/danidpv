@@ -2,9 +2,12 @@
 
 ### 💻 Fullstack Developer | Especialista en Frontend y Backend
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, con experiencia creando soluciones robustas, escalables y enfocadas en el usuario. Me especializo en el desarrollo fullstack, con énfasis en tecnologías modernas del ecosistema JavaScript, PHP y bases de datos tanto SQL como NoSQL.
+Full Stack Developer · Automatización de procesos · Data & AI
 
----
+Construyo aplicaciones, automatizaciones y soluciones de datos orientadas a resolver problemas reales.
+
+Python · FastAPI · React · TypeScript · SQL Server · ClickHouse · Airflow · Docker · GitHub Actions
+-
 
 ## 🚀 Tecnologías y Herramientas que Utilizo
 
@@ -35,12 +38,11 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 
 ## 🧩 Qué hago
 
-- Desarrollo **proyectos personalizados** a medida del cliente
-- Implemento soluciones **Fullstack**, desde la interfaz hasta la lógica del servidor
-- Desarrollo **Frontend** centrado en la experiencia de usuario
-- Diseño y desarrollo de **APIs** robustas y escalables
-- Optimización de **bases de datos** y consultas eficientes
-- Mejora continua mediante **testing**, **CI/CD** y buenas prácticas de desarrollo
+Desarrollo aplicaciones Full Stack con React, TypeScript, Python y FastAPI.
+Automatizo procesos y flujos de datos.
+Trabajo con SQL Server, ClickHouse y arquitecturas de datos.
+Integro APIs, CI/CD y herramientas DevOps.
+Interesado especialmente en automatización e Inteligencia Artificial.
 
 ---
 
