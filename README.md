@@ -20,8 +20,10 @@ Python · FastAPI · React · TypeScript · SQL Server · ClickHouse · Airflow 
 ### 🛠️ Backend
 - **Node.js**
 - **Symfony (PHP)**
+- **Clickhouse**
 
 ### 🗃️ Bases de Datos
+
 - **MongoDB** 🍃
 - **PostgreSQL** 🐘
 - **DBeaver** (administración y consultas)
